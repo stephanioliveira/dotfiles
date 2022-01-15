@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = stephani.oliveirabds@gmail.com
+	name = stephani oliveira
